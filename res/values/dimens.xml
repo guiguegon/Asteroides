@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Main menu buttons -->
+    <dimen name="btn_main_menu_width_portrait_normal">250dp</dimen>
+    <dimen name="btn_main_menu_height_portrait_normal">60dp</dimen>
+    <dimen name="btn_main_menu_width_landscape_normal">100dp</dimen>
+    <dimen name="btn_main_menu_height_landscape_normal">50dp</dimen>
+    <dimen name="text_normal">25sp</dimen>
+    <dimen name="btn_text_normal">20sp</dimen>
+    
+    <!--  Main menu buttons XLARGE -->
+
+    <dimen name="btn_main_menu_width_portrait_xlarge">500dp</dimen>
+    <dimen name="btn_main_menu_height_portrait_xlarge">120dp</dimen>
+    <dimen name="btn_main_menu_width_landscape_xlarge">200dp</dimen>
+    <dimen name="btn_main_menu_height_landscape_xlarge">100dp</dimen>
+    <dimen name="text_xlarge">100sp</dimen>
+    <dimen name="btn_text_xlarge">50sp</dimen>
+
+</resources>

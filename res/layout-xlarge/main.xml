@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Asteroides" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/text_xlarge" />
+
+    <Button
+        android:id="@+id/btn_play"
+        android:layout_width="@dimen/btn_main_menu_width_portrait_xlarge"
+        android:layout_height="@dimen/btn_main_menu_height_portrait_xlarge"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:text="@string/play"
+        android:textSize="@dimen/btn_text_xlarge" />
+
+    <Button
+        android:id="@+id/btn_config"
+        android:layout_width="@dimen/btn_main_menu_width_portrait_xlarge"
+        android:layout_height="@dimen/btn_main_menu_height_portrait_xlarge"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:text="@string/configure"
+        android:textSize="@dimen/btn_text_xlarge" />
+
+    <Button
+        android:id="@+id/btn_about"
+        android:layout_width="@dimen/btn_main_menu_width_portrait_xlarge"
+        android:layout_height="@dimen/btn_main_menu_height_portrait_xlarge"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:text="@string/about"
+        android:textSize="@dimen/btn_text_xlarge" />
+
+    <Button
+        android:id="@+id/btn_exit"
+        android:layout_width="@dimen/btn_main_menu_width_portrait_xlarge"
+        android:layout_height="@dimen/btn_main_menu_height_portrait_xlarge"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:text="@string/exit"
+        android:textSize="@dimen/btn_text_xlarge" />
+
+</LinearLayout>

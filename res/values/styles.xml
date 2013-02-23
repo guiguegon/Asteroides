@@ -1,0 +1,43 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar">
+        
+    </style>
+
+    <style name="TitleText" parent="@android:style/TextAppearance.Large">
+        <item name="android:layout_marginBottom">@dimen/activity_vertical_margin</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+    </style>
+
+    <style name="MainMenuButtons">
+        <item name="android:layout_marginBottom">@dimen/activity_vertical_margin</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/btn_text_normal</item>
+        <item name="android:layout_width">@dimen/btn_main_menu_width_portrait_normal</item>
+        <item name="android:layout_height">@dimen/btn_main_menu_height_portrait_normal</item>
+    </style>
+
+    <style name="MainMenuButtonsL" parent="MainMenuButtons">
+        <item name="android:layout_width">@dimen/btn_main_menu_width_landscape_normal</item>
+        <item name="android:layout_height">@dimen/btn_main_menu_height_landscape_normal</item>
+    </style>
+
+</resources>

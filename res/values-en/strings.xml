@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Asteroides</string>
+
+    <!-- String Menu principal -->
+    <string name="play">Play</string>
+    <string name="configure">Configure</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+
+</resources>
