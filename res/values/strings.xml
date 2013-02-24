@@ -10,5 +10,6 @@
     <string name="exit">Salir</string>
     <string name="entrada">Introduce un número</string>
     <string name="salida">Resultado</string>
+    <string name="score">Puntuaciones</string>
 
 </resources>

@@ -53,8 +53,8 @@ public final class R {
         public static final int acercaDe=0x7f0a000a;
         public static final int btn_about=0x7f0a0003;
         public static final int btn_config=0x7f0a0002;
-        public static final int btn_exit=0x7f0a0004;
         public static final int btn_play=0x7f0a0001;
+        public static final int btn_score=0x7f0a0004;
         public static final int button1=0x7f0a0007;
         public static final int button2=0x7f0a0006;
         public static final int config=0x7f0a0009;
@@ -65,6 +65,7 @@ public final class R {
         public static final int acercade=0x7f030000;
         public static final int main=0x7f030001;
         public static final int masvistas=0x7f030002;
+        public static final int puntuaciones=0x7f030003;
     }
     public static final class menu {
         public static final int menu=0x7f090000;
@@ -80,6 +81,7 @@ public final class R {
          */
         public static final int play=0x7f070001;
         public static final int salida=0x7f070006;
+        public static final int score=0x7f070007;
     }
     public static final class style {
         /** 

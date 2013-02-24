@@ -27,8 +27,8 @@
         android:text="@string/about" />
 
     <Button
-        android:id="@+id/btn_exit"
+        android:id="@+id/btn_score"
         style="@style/MainMenuButtons"
-        android:text="@string/exit" />
+        android:text="@string/score" />
 
 </LinearLayout>

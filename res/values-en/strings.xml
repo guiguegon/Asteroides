@@ -8,5 +8,6 @@
     <string name="configure">Configure</string>
     <string name="about">About</string>
     <string name="exit">Exit</string>
+    <string name="score">High Score</string>
 
 </resources>

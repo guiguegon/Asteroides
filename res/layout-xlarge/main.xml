@@ -48,13 +48,13 @@
         android:textSize="@dimen/btn_text_xlarge" />
 
     <Button
-        android:id="@+id/btn_exit"
+        android:id="@+id/btn_score"
         android:layout_width="@dimen/btn_main_menu_width_portrait_xlarge"
         android:layout_height="@dimen/btn_main_menu_height_portrait_xlarge"
         android:layout_marginBottom="@dimen/activity_vertical_margin"
         android:background="@android:color/white"
         android:gravity="center"
-        android:text="@string/exit"
+        android:text="@string/score"
         android:textSize="@dimen/btn_text_xlarge" />
 
 </LinearLayout>
